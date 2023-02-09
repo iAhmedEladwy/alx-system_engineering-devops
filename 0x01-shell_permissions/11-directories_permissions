@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 775 "$dir"
+chmod +111 "$dir"
